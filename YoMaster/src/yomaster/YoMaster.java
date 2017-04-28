@@ -16,6 +16,11 @@ public class YoMaster {
      */
     public static void main(String[] args) {
         System.out.println("this is the master branch");
+        System.out.println(hey());
+        
+    }
+    public static int hey(){
+    return 5;
     }
     
 }
